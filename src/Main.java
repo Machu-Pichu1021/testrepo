@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("Ultra mega change incoming");
-        System.out.println("omega monkey");
+        System.out.println("omega Andrew Kogan");
 
         System.out.println("SIGMA YES");
 
