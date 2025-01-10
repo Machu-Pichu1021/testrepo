@@ -4,6 +4,10 @@ public class Main {
         System.out.println("omega monkey");
 
         System.out.println("MOAR PRINTSSSSSSS");
+
+        for (int i = 0; i < 1000; i++) {
+            NewClassAlert newClassAlert = new NewClassAlert();
+        }
     }
 
 }
